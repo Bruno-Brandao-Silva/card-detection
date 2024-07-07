@@ -1,0 +1,4 @@
+train: ..\card-detection\card-detection\train
+val: ..\card-detection\card-detection\val
+nc: 2
+names: ["ace", "king"]
